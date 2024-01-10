@@ -1,5 +1,5 @@
   https://github.com/KarthikValliyapan/Sample3.git
-  @tag1
+  @smoke
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
